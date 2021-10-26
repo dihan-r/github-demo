@@ -1,2 +1,4 @@
 # github-demo
-This is a demo repo for github for beginners
+github-demo opened in Visual Studio Code
+
+Removed a line
